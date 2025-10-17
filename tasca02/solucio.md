@@ -35,6 +35,8 @@ Es fixa un temps mínim de 10 minuts d’autonomia, suficient per guardar docume
 
 **CyberPower PR2200VA**: 2200W, 9-10 minuts, preu 950€, line-interactive.
 
+<img src="https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif">
+
 ![][image1]
 
 **5\. Informe tècnic**
