@@ -1,13 +1,27 @@
-Descripció de la tasca 3
-Després de la primera feina exitosa, us arriba un encàrrec urgent que obliga a que us hi poseu per donar-li solució. Com a fase prèvia rebreu una formació sobre la seguretat lògica que us permetrà tenir els coneixements necessaris per afrontar la tasca. Han arribat a la consultora un equip provinent d’un client que demana que els hi solucionem el problema. Tenen un portàtil amb Zorin OS (un Linux amb entorn gràfic) que usava habitualment un directiu. El problema és que ha oblidat la contrasenya i és necessari poder recuperar l’accés perquè hi ha documentació molt important que cal recuperar. Per evitar que una acció catastròfica pugui danyar l’equip original, ens han clonat el disc en un disc virtual perquè hi treballeu.
+Descripció de la tasca 2
+L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament informàtic, té un petit despatx amb 4 ordinadors de sobretaula, una impressora-fotocopiadora multifunció (similar a les que té l’escola) i un router d’accés a Internet. Davant les constants incidències amb el subministrament elèctric a la zona, la direcció ha decidit adquirir un SAI per garantir la continuïtat del servei i protegir els equips.
+
 Enunciat
-Procediment individual
-Vulnereu l’accés al GRUB del Linux.
-Identifiqueu l’usuari del sistema.
-Modifiqueu la contrasenya de l’usuari i verifiqueu que ara ja té accés.
-Investigueu com es pot fortificar l’accés al GRUB. És molt important que indiquis les fonts d’informació que usis.
-Configura la màquina virtual per tal de fortificar l’accés al GRUB
-Documenteu el procediment en un document (cal incloure imatges) per posteriorment pujar-lo al vostre repositori.
-Solució
-solucio aqui
+Tasques a realitzar Inventari d’equips
+
+Llista dels dispositius que es connectaran al SAI (ordinadors, monitors, router, etc.), justifiqueu si hi ha algun aparell que no hi connectareu al sistema d’alimentació ininterrompuda.
+
+Consulta de les especificacions tècniques per obtenir el consum de cada dispositiu. Seleccioneu components que s’ajustin als que podríeu trobar-vos a la seu del client. Indiqueu clarament les dades del component triat i els valors de watts i VA corresponents. Càlcul de potència total
+
+Valor total de potència i valor incloent la reserva del 20%.
+
+Determinació de l’autonomia
+
+Estimació del temps mínim que el SAI ha de mantenir els equips en funcionament (ex. 10 minuts per guardar treballs i apagar correctament).
+
+Recerca de models de SAI
+
+Cerca de 2 o 3 models de SAI que compleixin els requisits.
+
+Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
+
+Informe tècnic
+
+Redacció d’un informe amb: Càlculs realitzats Models analitzats Justificació de la selecció final
+
 Tornar pàgina projecte
