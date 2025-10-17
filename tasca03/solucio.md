@@ -3,7 +3,7 @@
 **T03 Arturo Garcia**
 
 Un cop obrim la maquina pulsem rapid shift i un altre tecla qualsevol, i sens obrirà aquest menú que tenim que escollir la segona opció, la advanced.  
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20191505.png?raw=true">
 
 Aqui tambe escollim la segona opció. 
 
