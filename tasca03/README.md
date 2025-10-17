@@ -23,5 +23,3 @@ Comparació de característiques: potència, autonomia, tipus de sortides, preu,
 Informe tècnic
 
 Redacció d’un informe amb: Càlculs realitzats Models analitzats Justificació de la selecció final
-
-Tornar pàgina projecte
