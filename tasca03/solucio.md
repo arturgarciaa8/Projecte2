@@ -7,16 +7,16 @@ Un cop obrim la maquina pulsem rapid shift i un altre tecla qualsevol, i sens ob
 
 Aqui tambe escollim la segona opció. 
 
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-17%20175323.png?raw=true">
 
 Ara donem a root i s’obrira un mini menu
 
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20191614.png?raw=true">
 
 un cop surt el mini menu que podem escriure posem les següents comandes per a restableixir la contrasenya.  
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20191834.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20192051.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20192131.png?raw=true">
 Un cop escrites les commandes reiniciar la màquina i iniciem sessió amb la nova contrasenya.  
 <img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
 
