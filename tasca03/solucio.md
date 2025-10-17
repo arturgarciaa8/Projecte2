@@ -18,10 +18,10 @@ un cop surt el mini menu que podem escriure posem les següents comandes per a r
 <img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20192051.png?raw=true">
 <img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20192131.png?raw=true">
 Un cop escrites les commandes reiniciar la màquina i iniciem sessió amb la nova contrasenya.  
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20192214.png?raw=true">
 
 i ja estaria la primera part.  
-<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
+<img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20192433.png?raw=true">
 
 per a començar la segona part obrim la terminal dins de la màquina linux i escrivim lo següent.  
 <img src="https://github.com/arturgarciaa8/Projecte2/blob/main/tasca02/img/tasca02.png?raw=true">
